@@ -33,7 +33,7 @@ To launch the project, follow these steps:
      ```bash
      npm install
      ```
-3. Run database migrations:
+3. Run database migrations to automatically create the tables:
      ```bash
      php artisan migrate
      ```
