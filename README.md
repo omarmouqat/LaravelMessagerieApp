@@ -1,6 +1,6 @@
-# Gmail App Laravel
+# Messagerie App Laravel
 
-This is a messaging application built with Laravel. It allows users to create accounts, log in, and connect with others by sending and receiving messages. The app includes features such as user authentication, protected routes, and profile management.
+This is a messaging application built with Laravel. It allows users to create accounts, log in, and connect with others by sending and receiving messages. The app includes features such as user authentication, protected routes, CSRF protection, and profile management.
 
 ## Features
 
@@ -12,6 +12,7 @@ This is a messaging application built with Laravel. It allows users to create ac
 - **Profile Management**:
     - Edit your profile information.
     - Delete your account if needed.
+- **CSRF Protection**: Safeguards against cross-site request forgery attacks.
 - **Pagination**: Messages are segmented into pages for easier navigation.
 
 ## Sections
@@ -54,4 +55,4 @@ To launch the project, follow these steps:
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE). Messagerie App Laravel
